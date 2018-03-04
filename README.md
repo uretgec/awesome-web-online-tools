@@ -6,6 +6,7 @@
 	- [Crontab](#crontab)
 - [Webonlineservices](#webonlineservices)
 	- [Cron Jobs](#cron-jobs)
+	- [Fake Data Generators](#fake-data-generators)
 - [Webonlineresources](#webonlineresources)
 	- [Discovery](#discovery)
 	- [Articles](#articles)
@@ -24,6 +25,10 @@
 ### Cron Jobs
 - [cron-job.org](https://cron-job.org/en/) - Free cronjobs - from minutely to once a year.
 - [setcronjob.com](https://www.setcronjob.com/) - Reliable Web Cron service. (Commercial)
+
+### Fake Data Generators
+- [fakenamegenerator.com](https://www.fakenamegenerator.com/) - Get a whole new identity at the Fake Name Generator. (Best)
+- [namegenerator.in](http://namegenerator.in/) - This is a simple tool that creates pretend business cards.
 
 ## License
 No License.
