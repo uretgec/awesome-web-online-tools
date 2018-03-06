@@ -10,6 +10,7 @@
 	- [Fake Data Generators](#fake-data-generators)
 	- [Json Generator](#json-generators)
 	- [Dns Check](#dns-check)
+	- [Image Optimizer](#image-optimizer)
 - [Webonlineresources](#webonlineresources)
 	- [Discovery](#discovery)
 	- [Articles](#articles)
@@ -49,6 +50,11 @@
 - [dnscheck.co](https://www.dnscheck.co/) - Monitor DNS records. Request DNS updates by sharing reports that show the pass/fail status of each record. Troubleshoot DNS issues. DNS records are automatically re-checked, and reports updated. DNS records can be imported from a zone file, or added individually. (Commercial)
 - [dns.google.com](https://dns.google.com) - Google Public Dns (Simple)
 - [viewdns.info](http://www.viewdns.info/) - Your one source for DNS related tools.
+
+### Image Optimizer
+- [tinypng.com](https://tinypng.com/) - Make your website faster and save bandwidth. TinyPNG optimizes your PNG images by 50-80% while preserving full transparency! (Best)
+- [compressor.io](https://compressor.io/compress) - Compress and optimize your images Up to 90% file size reduction.
+- [optimizilla.com](http://optimizilla.com/) - This online image optimizer uses a smart combination of the best optimization and lossy compression algorithms to shrink JPEG and PNG images to the minimum possible size while keeping the required level of quality.
 
 ## License
 No License.
