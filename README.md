@@ -9,6 +9,7 @@
 	- [Cron Jobs](#cron-jobs)
 	- [Fake Data Generators](#fake-data-generators)
 	- [Json Generator](#json-generators)
+	- [Dns Check](#dns-check)
 - [Webonlineresources](#webonlineresources)
 	- [Discovery](#discovery)
 	- [Articles](#articles)
@@ -39,7 +40,15 @@
 - [namegenerator.in](http://namegenerator.in/) - This is a simple tool that creates pretend business cards.
 
 ### Json Generators
-- [next.json-generator.com](https://next.json-generator.com/) - SON Generator generates data according to the template and saves it. Data can be requested from server using ajax with jsonp. (Best)
+- [next.json-generator.com](https://next.json-generator.com/) - JSON Generator generates data according to the template and saves it. Data can be requested from server using ajax with jsonp. (Best)
+
+### Dns Check
+- [whatsmydns.net](https://www.whatsmydns.net/) - Instantly check your domain names current IP address and DNS record information against multiple name servers located in different parts of the world. (Best)
+- [dnsmap.io](https://dnsmap.io/) - Check the current IP of your domain name or hostname from multiple DNS nameservers and resolvers from all around the world. Instant propagation check.
+- [intodns.com](https://intodns.com/) - intoDNS checks the health and configuration of DNS and mail servers. (My favourite)
+- [dnscheck.co](https://www.dnscheck.co/) - Monitor DNS records. Request DNS updates by sharing reports that show the pass/fail status of each record. Troubleshoot DNS issues. DNS records are automatically re-checked, and reports updated. DNS records can be imported from a zone file, or added individually. (Commercial)
+- [dns.google.com](https://dns.google.com) - Google Public Dns (Simple)
+- [viewdns.info](http://www.viewdns.info/) - Your one source for DNS related tools.
 
 ## License
 No License.
