@@ -6,6 +6,8 @@
 	- [Crontab](#crontab)
 	- [Json Viewer](#jsonviewer)
 	- [Online Editor](#online-editor)
+	- [Regexp](#regexp)
+	- [Online IDE](#online-ide)
 - [Webonlineservices](#webonlineservices)
 	- [Cron Jobs](#cron-jobs)
 	- [Fake Data Generators](#fake-data-generators)
@@ -37,6 +39,14 @@
 - [codepen.io](https://codepen.io/pen/) - A front end web development playground.
 - [jsbin.com](http://jsbin.com) - A live pastebin for HTML, CSS & JavaScript and a range of processors, including SCSS, CoffeeScript, Jade and more...
 - [sqlfiddle.com](http://sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solutions.
+
+### Regexp
+- [regexr.com](https://regexr.com/) - Regular expression tester with syntax highlighting, PHP / PCRE & JS Support, contextual help, cheat sheet, reference, and searchable community patterns.. (Best)
+- [regex101.com](https://regex101.com/) - Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript.
+- [regexpal.com](https://www.regexpal.com/) - Test your Javascript and PCRE regular expressions online.
+
+### Online IDE - Online Compiler
+- [theonlinecompiler.com](https://theonlinecompiler.com/ide) - Program online in Online Compiler and IDE with C, C++, Java, Python, and more languages. Our cloud based application and beautiful UI gives seamless Experience.
 
 ## WEBONLINESERVICES
 
