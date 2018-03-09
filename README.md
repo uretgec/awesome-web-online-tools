@@ -16,6 +16,7 @@
 	- [Image Optimizer](#image-optimizer)
 	- [Avatar Generator](#avatar-generator)
 	- [Online Sketch](#online-sketch)
+	- [Localhost Tunneling](#localhost-tunnelling)
 - [Webonlineresources](#webonlineresources)
 	- [Discovery](#discovery)
 	- [Articles](#articles)
@@ -88,6 +89,11 @@
 - [awwapp.com](https://awwapp.com) - A collaborative online whiteboard for business and education. Be more productive - have your ideas, sketches, and concepts on any device, anytime, anywhere.
 - [kleki.com](http://kleki.com/) - Kleki is a modern painting and image editing tool for your browser. No plug-ins required.
 - [vectr.com](https://vectr.com/new) - free graphics software used to create vector graphics easily and intuitively.
+
+### Localhost Tunneling
+- [xip.io](http://xip.io/) - is a magic domain name that provides wildcard DNS for any IP address. (Best) 
+- [ngrok.com](https://ngrok.com/) - ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool.
+- [nip.io](http://nip.io/) - allows you to map any IP Address in the following all DNS wildcard entries.
 
 ## License
 No License.
