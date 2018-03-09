@@ -17,6 +17,7 @@
 	- [Avatar Generator](#avatar-generator)
 	- [Online Sketch](#online-sketch)
 	- [Localhost Tunneling](#localhost-tunnelling)
+	- [Virus Check](#virus-check)
 - [Webonlineresources](#webonlineresources)
 	- [Discovery](#discovery)
 	- [Articles](#articles)
@@ -60,9 +61,12 @@
 ### Fake Data Generators
 - [fakenamegenerator.com](https://www.fakenamegenerator.com/) - Get a whole new identity at the Fake Name Generator. (Best)
 - [namegenerator.in](http://namegenerator.in/) - This is a simple tool that creates pretend business cards.
+- [uinames.com](https://uinames.com/) - Generate random fake names for use in designs and mockups. Supports 50+ regions with more than 1.2 million possible combinations. Completely open-source.
+- [httpbin.org](https://httpbin.org/) - HTTP Client Testing Service.
 
 ### Json Generators
 - [next.json-generator.com](https://next.json-generator.com/) - JSON Generator generates data according to the template and saves it. Data can be requested from server using ajax with jsonp. (Best)
+- [next.json-generator.com](http://jsongen.pykaso.net/) - Nice sample data generator.
 
 ### Dns Check
 - [whatsmydns.net](https://www.whatsmydns.net/) - Instantly check your domain names current IP address and DNS record information against multiple name servers located in different parts of the world. (Best)
@@ -94,6 +98,9 @@
 - [xip.io](http://xip.io/) - is a magic domain name that provides wildcard DNS for any IP address. (Best) 
 - [ngrok.com](https://ngrok.com/) - ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool.
 - [nip.io](http://nip.io/) - allows you to map any IP Address in the following all DNS wildcard entries.
+
+### Virus Check
+- [virustotal.com](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware including viruses, worms, and trojans. (Best) 
 
 ## License
 No License.
