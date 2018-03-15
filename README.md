@@ -18,6 +18,7 @@
 	- [Online Sketch](#online-sketch)
 	- [Localhost Tunneling](#localhost-tunnelling)
 	- [Virus Check](#virus-check)
+	- [Fake Email Service](#fake-email-service)
 - [Webonlineresources](#webonlineresources)
 	- [Discovery](#discovery)
 	- [Articles](#articles)
@@ -101,6 +102,12 @@
 
 ### Virus Check
 - [virustotal.com](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware including viruses, worms, and trojans. (Best) 
+
+### Fake Email Service
+- [temp-mail.org](https://temp-mail.org/en/) - Keep spam out of your mail and stay safe - just use a disposable temporary email address! Protect your personal email address from spam with Temp-mail (Best) 
+- [fakemailgenerator.com](http://www.fakemailgenerator.com) - The Fake Mail Generator is an absolutely free disposable email system. By simply visiting this site the above address has already been activated. Use it instead of your regular email address to avoid spam. When an email is received it will pop up instantly on this page. 
+- [fakeinbox.com](http://www.fakeinbox.com/) - Disposable Temporary E-Mail Address. 
+- [20minutemail.com](http://www.20minutemail.com) - 20 minute temp mail is a disposable email service to beat spam.  Avoid spam with a free secure temporary email.
 
 ## License
 No License.
