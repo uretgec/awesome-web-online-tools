@@ -15,6 +15,7 @@
 	- [Dns Check](#dns-check)
 	- [Image Optimizer](#image-optimizer)
 	- [Avatar Generator](#avatar-generator)
+	- [Font Generator](#font-generator)
 	- [Online Sketch](#online-sketch)
 	- [Localhost Tunneling](#localhost-tunnelling)
 	- [Virus Check](#virus-check)
@@ -64,6 +65,7 @@
 - [namegenerator.in](http://namegenerator.in/) - This is a simple tool that creates pretend business cards.
 - [uinames.com](https://uinames.com/) - Generate random fake names for use in designs and mockups. Supports 50+ regions with more than 1.2 million possible combinations. Completely open-source.
 - [httpbin.org](https://httpbin.org/) - HTTP Client Testing Service.
+- [mockaroo.com](https://www.mockaroo.com/) - Random realistic test data in CSV, JSON, SQL, and Excel formats.
 
 ### Json Generators
 - [next.json-generator.com](https://next.json-generator.com/) - JSON Generator generates data according to the template and saves it. Data can be requested from server using ajax with jsonp. (Best)
@@ -87,6 +89,9 @@
 - [hexatar.com](http://www.hexatar.com/) - Create your own unique scalable vector avatar or cartoon profile picture in easy steps. Save it in vector PDF/SVG or high resolution PNG file for free.
 - [getavataaars.com](https://getavataaars.com/) - A free online avatar generator for anyone to make their beautiful personal avatar easily!
 - [habox.org](http://labs.habox.org/generator-avatar) - A free online avatar generator.
+
+### Font Generator
+- [fontello.com/](http://fontello.com/) - Fontello is a tool to quickly pack vector images into webfonts.
 
 ### Online Sketch
 - [sketch.io](https://sketch.io/sketchpad/) - Free online drawing application for all ages. Create digital artwork to share online and export to popular image formats JPEG, PNG, SVG, and PDF. (Best)
