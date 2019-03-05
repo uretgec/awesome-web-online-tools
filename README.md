@@ -91,7 +91,7 @@
 - [habox.org](http://labs.habox.org/generator-avatar) - A free online avatar generator.
 
 ### Font Generator
-- [fontello.com/](http://fontello.com/) - Fontello is a tool to quickly pack vector images into webfonts.
+- [fontello.com](http://fontello.com/) - Fontello is a tool to quickly pack vector images into webfonts.
 
 ### Online Sketch
 - [sketch.io](https://sketch.io/sketchpad/) - Free online drawing application for all ages. Create digital artwork to share online and export to popular image formats JPEG, PNG, SVG, and PDF. (Best)
