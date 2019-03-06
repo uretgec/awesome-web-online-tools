@@ -39,12 +39,15 @@
 - [jsonparseronline.com](http://jsonparseronline.com/) - a tool which lets you parse json string into a preety and colorful json tree view. JSON Parser Online converts JSON Strings to a friendly readable format.
 - [jsonformatter.org](https://jsonformatter.org/json-editor) - Secure JSON Editor is online JSON editor tool to Edit, Validate and Format JSON data. Support JSON File, URL.
 - [json-to-table.com](http://json-to-table.com/) - convert JSON data to a table representation.
+- [json-JMESPath](https://www.rdtoc.com/tools/jmespath) - Extract json text by JMESPath syntax
+- [json-JSONPath](https://www.rdtoc.com/tools/jsonpath) - Extract json text by JSONPath syntax
 
 ### Online Editor
 - [jsoneditoronline.org](https://jsfiddle.net/) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor. (Best - Favourite)
 - [codepen.io](https://codepen.io/pen/) - A front end web development playground.
 - [jsbin.com](http://jsbin.com) - A live pastebin for HTML, CSS & JavaScript and a range of processors, including SCSS, CoffeeScript, Jade and more...
 - [sqlfiddle.com](http://sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solutions.
+- [tableConvert.com](https://tableconvert.com/) - A powerful online table editor that converts between CSV, HTML and Markdown. Easy to convert html tables to SQL, JSON, XML and Text, Makes it easier to work with tables.
 
 ### Regexp
 - [regexr.com](https://regexr.com/) - Regular expression tester with syntax highlighting, PHP / PCRE & JS Support, contextual help, cheat sheet, reference, and searchable community patterns.. (Best)
