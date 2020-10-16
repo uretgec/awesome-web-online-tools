@@ -69,6 +69,7 @@
 - [uinames.com](https://uinames.com/) - Generate random fake names for use in designs and mockups. Supports 50+ regions with more than 1.2 million possible combinations. Completely open-source.
 - [httpbin.org](https://httpbin.org/) - HTTP Client Testing Service.
 - [mockaroo.com](https://www.mockaroo.com/) - Random realistic test data in CSV, JSON, SQL, and Excel formats.
+- [extendsclass.com](https://extendsclass.com/csv-generator.html) - Random test data in CSV, JSON and SQL. A REST API is available to generate data. 
 
 ### Json Generators
 - [next.json-generator.com](https://next.json-generator.com/) - JSON Generator generates data according to the template and saves it. Data can be requested from server using ajax with jsonp. (Best)
