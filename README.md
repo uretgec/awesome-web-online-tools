@@ -16,7 +16,7 @@
 	- [Image Optimizer](#image-optimizer)
 	- [Avatar Generator](#avatar-generator)
 	- [Font Generator](#font-generator)
-	- [Online Sketch](#online-sketch)
+	- [Online Sketch&Photo Editor](#online-sketch)
 	- [Localhost Tunneling](#localhost-tunnelling)
 	- [Virus Check](#virus-check)
 	- [Fake Email Service](#fake-email-service)
@@ -97,12 +97,16 @@
 ### Font Generator
 - [fontello.com](http://fontello.com/) - Fontello is a tool to quickly pack vector images into webfonts.
 
-### Online Sketch
+### Online Sketch&Photoshop Alternatives
 - [sketch.io](https://sketch.io/sketchpad/) - Free online drawing application for all ages. Create digital artwork to share online and export to popular image formats JPEG, PNG, SVG, and PDF. (Best)
 - [pixilart.com](https://www.pixilart.com/draw) - free online pixel drawing tool - This drawing tool allows you to make pixel art, game sprites and animated GIFs online for free.
 - [awwapp.com](https://awwapp.com) - A collaborative online whiteboard for business and education. Be more productive - have your ideas, sketches, and concepts on any device, anytime, anywhere.
 - [kleki.com](http://kleki.com/) - Kleki is a modern painting and image editing tool for your browser. No plug-ins required.
 - [vectr.com](https://vectr.com/new) - free graphics software used to create vector graphics easily and intuitively.
+- [photopea.com](https://www.photopea.com/) - Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures. Do Online Photo Editing in your browser for free!
+- [pixlr.com](https://pixlr.com/x/) - Looking for advanced photo editing capabilities right in your browser, Pixlr X is the next generation photo editor! No installation and registration required. Use for free on desktop, tablets&phones.
+- [fotor.com](https://www.fotor.com/photo-editor-app/) - Fotor is a free online photo editor and graphic designer, allowing you to use online photo editing tools, such as add filters, frames, text, stickers and effects…and apply design tools to make creative photo designs and graphics. Online photoshop and graphic design software has never been so easy!
+- [befunky.com](https://www.befunky.com/create/photo-editor/) - BeFunky's Online Photo Editor lets you edit photos, apply photo effects, and add frames, graphics, and text. Online Photo Editing has never been easier.
 
 ### Localhost Tunneling
 - [xip.io](http://xip.io/) - is a magic domain name that provides wildcard DNS for any IP address. (Best) 
