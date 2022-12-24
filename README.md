@@ -2,28 +2,28 @@
 > Start best web online tools [webonlinetools](#webonlinetools) and [webonlineresources](#webonlineresources).
 
 ## Contents
-- [Webonlinetools](#webonlinetools)
-	- [Crontab](#crontab)
-	- [Json Viewer](#jsonviewer)
-	- [Online Editor](#online-editor)
-	- [Regexp](#regexp)
-	- [Online IDE](#online-ide)
-- [Webonlineservices](#webonlineservices)
-	- [Cron Jobs](#cron-jobs)
-	- [Fake Data Generators](#fake-data-generators)
-	- [Json Generator](#json-generators)
-	- [Dns Check](#dns-check)
-	- [Image Optimizer](#image-optimizer)
-	- [Avatar Generator](#avatar-generator)
-	- [Font Generator](#font-generator)
-	- [Online Sketch&Photo Editor](#online-sketch)
-	- [Localhost Tunneling](#localhost-tunnelling)
-	- [Virus Check](#virus-check)
-	- [Fake Email Service](#fake-email-service)
-- [Webonlineresources](#webonlineresources)
-	- [Discovery](#discovery)
-	- [Articles](#articles)
-	- [Cheatsheets](#cheatsheets)
+- [AWESOME WEBONLINETOOLS](#awesome-webonlinetools)
+	- [Contents](#contents)
+	- [WEBONLINETOOLS](#webonlinetools)
+		- [Crontab](#crontab)
+		- [Json Viewer](#json-viewer)
+		- [Online Editor](#online-editor)
+		- [Regexp](#regexp)
+		- [Online IDE - Online Compiler](#online-ide---online-compiler)
+		- [Git Download](#git-download)
+	- [WEBONLINESERVICES](#webonlineservices)
+		- [Cron Jobs](#cron-jobs)
+		- [Fake Data Generators](#fake-data-generators)
+		- [Json Generators](#json-generators)
+		- [Dns Check](#dns-check)
+		- [Image Optimizer](#image-optimizer)
+		- [Avatar Generator](#avatar-generator)
+		- [Font Generator](#font-generator)
+		- [Online Sketch\&Photoshop Alternatives](#online-sketchphotoshop-alternatives)
+		- [Localhost Tunneling](#localhost-tunneling)
+		- [Virus Check](#virus-check)
+		- [Fake Email Service](#fake-email-service)
+	- [License](#license)
 
 ## WEBONLINETOOLS
 
@@ -56,6 +56,11 @@
 
 ### Online IDE - Online Compiler
 - [theonlinecompiler.com](https://theonlinecompiler.com/ide) - Program online in Online Compiler and IDE with C, C++, Java, Python, and more languages. Our cloud based application and beautiful UI gives seamless Experience.
+
+### Git Download
+- [DownGit](https://minhaskamal.github.io/DownGit/#/home) - With this tool you can directly download or create download link to any GitHub public directory or file.
+- [gitzip.org](https://kinolien.github.io/gitzip/) - It can make sub-folder/sub-directory of github repository as zip and download it.
+- [gitdownloadmanager.com](https://gitdownloadmanager.com) - Github.com, Bitbucket.org, Gitlab.com provides all of the public repos in git services to download selected files and folders as a zip files with a single click, without the need for any API key or token.
 
 ## WEBONLINESERVICES
 
