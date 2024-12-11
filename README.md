@@ -101,6 +101,7 @@
 
 ### Font Generator
 - [fontello.com](http://fontello.com/) - Fontello is a tool to quickly pack vector images into webfonts.
+- [Fancy text generator](https://thefancytext.com/) - thefancytext is online fancy font generator tool.
 
 ### Online Sketch&Photoshop Alternatives
 - [sketch.io](https://sketch.io/sketchpad/) - Free online drawing application for all ages. Create digital artwork to share online and export to popular image formats JPEG, PNG, SVG, and PDF. (Best)
