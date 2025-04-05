@@ -32,6 +32,7 @@
 - [crontab.com](http://corntab.com) - The crontab GUI
 - [crontab-generator.org](https://crontab-generator.org/) - Generate your crontab line easily.
 - [openjs.com](http://www.openjs.com/scripts/jslibrary/demos/crontab.php) - Crontab Generator is a GUI application that can be used to create new crontab entries easily.
+- [convertloom.com](https://www.convertloom.com/tools/cron-job-generator) - Cron Job Generator with a clean UI to build and copy crontab expressions quickly, including shortcuts and custom schedules.
 
 ### Json Viewer
 - [jsoneditoronline.org](https://jsoneditoronline.org/) - JSON Editor Online is a web-based tool to view, edit, and format JSON. It shows your data side by side in a clear, editable treeview and in a code editor. (Best)
