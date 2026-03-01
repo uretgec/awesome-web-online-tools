@@ -34,6 +34,7 @@
 - [openjs.com](http://www.openjs.com/scripts/jslibrary/demos/crontab.php) - Crontab Generator is a GUI application that can be used to create new crontab entries easily.
 
 ### Json Viewer
+- [json-viewer.autocompany.workers.dev](https://json-viewer.autocompany.workers.dev/) - Free online JSON viewer, formatter and validator with syntax highlighting, tree view and collapsible sections.
 - [jsoneditoronline.org](https://jsoneditoronline.org/) - JSON Editor Online is a web-based tool to view, edit, and format JSON. It shows your data side by side in a clear, editable treeview and in a code editor. (Best)
 - [codebeautify.org](https://codebeautify.org/jsonviewer) - Online JSON Viewer, Beautifier, Formatter, Analyser, Minify, Converter.
 - [jsonparseronline.com](http://jsonparseronline.com/) - a tool which lets you parse json string into a preety and colorful json tree view. JSON Parser Online converts JSON Strings to a friendly readable format.
@@ -81,6 +82,7 @@
 - [next.json-generator.com](http://jsongen.pykaso.net/) - Nice sample data generator.
 
 ### Dns Check
+- [dns-propagation-checker.autocompany.workers.dev](https://dns-propagation-checker.autocompany.workers.dev/) - Free DNS propagation checker - verify DNS record changes across multiple global DNS servers in real-time.
 - [whatsmydns.net](https://www.whatsmydns.net/) - Instantly check your domain names current IP address and DNS record information against multiple name servers located in different parts of the world. (Best)
 - [dnsmap.io](https://dnsmap.io/) - Check the current IP of your domain name or hostname from multiple DNS nameservers and resolvers from all around the world. Instant propagation check.
 - [intodns.com](https://intodns.com/) - intoDNS checks the health and configuration of DNS and mail servers. (My favourite)
