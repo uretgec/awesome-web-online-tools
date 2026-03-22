@@ -42,6 +42,7 @@
 - [json-JMESPath](https://www.rdtoc.com/tools/jmespath) - Extract json text by JMESPath syntax
 - [json-JSONPath](https://www.rdtoc.com/tools/jsonpath) - Extract json text by JSONPath syntax
 
+- [utilshed.com](https://utilshed.com) - 100+ free online developer tools including JSON formatter, Base64 encoder, UUID generator, regex tester, hash generator, and more. No signup required.
 ### Online Editor
 - [jsoneditoronline.org](https://jsfiddle.net/) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor. (Best - Favourite)
 - [codepen.io](https://codepen.io/pen/) - A front end web development playground.
