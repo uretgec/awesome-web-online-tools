@@ -32,6 +32,7 @@
 - [crontab.com](http://corntab.com) - The crontab GUI
 - [crontab-generator.org](https://crontab-generator.org/) - Generate your crontab line easily.
 - [openjs.com](http://www.openjs.com/scripts/jslibrary/demos/crontab.php) - Crontab Generator is a GUI application that can be used to create new crontab entries easily.
+- [DevTools Cron Expression Generator](https://devtools.davrapps.dev/en/cron-expression) - Interactive cron expression builder with presets, human-readable explanations, and next-execution previews. Free, no signup.
 
 ### Json Viewer
 - [jsoneditoronline.org](https://jsoneditoronline.org/) - JSON Editor Online is a web-based tool to view, edit, and format JSON. It shows your data side by side in a clear, editable treeview and in a code editor. (Best)
@@ -41,6 +42,7 @@
 - [json-to-table.com](http://json-to-table.com/) - convert JSON data to a table representation.
 - [json-JMESPath](https://www.rdtoc.com/tools/jmespath) - Extract json text by JMESPath syntax
 - [json-JSONPath](https://www.rdtoc.com/tools/jsonpath) - Extract json text by JSONPath syntax
+- [DevTools JSON Formatter](https://devtools.davrapps.dev/en/json-formatter) - Format, validate, and minify JSON with syntax highlighting. 100% client-side, no data sent to server.
 
 ### Online Editor
 - [jsoneditoronline.org](https://jsfiddle.net/) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor. (Best - Favourite)
@@ -53,6 +55,7 @@
 - [regexr.com](https://regexr.com/) - Regular expression tester with syntax highlighting, PHP / PCRE & JS Support, contextual help, cheat sheet, reference, and searchable community patterns.. (Best)
 - [regex101.com](https://regex101.com/) - Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript.
 - [regexpal.com](https://www.regexpal.com/) - Test your Javascript and PCRE regular expressions online.
+- [DevTools Regex Tester](https://devtools.davrapps.dev/en/regex-tester) - Test regex patterns with live match highlighting, capture group display, and common pattern library. Client-side only.
 
 ### Online IDE - Online Compiler
 - [theonlinecompiler.com](https://theonlinecompiler.com/ide) - Program online in Online Compiler and IDE with C, C++, Java, Python, and more languages. Our cloud based application and beautiful UI gives seamless Experience.
@@ -89,6 +92,7 @@
 - [viewdns.info](http://www.viewdns.info/) - Your one source for DNS related tools.
 
 ### Image Optimizer
+- [ImgTools](https://imgtools.davrapps.dev) - 7 free image tools: compress (MozJPEG, up to 80% reduction), resize, crop, rotate, convert (JPEG/PNG/WebP/AVIF), watermark, and AI background removal. No signup required.
 - [tinypng.com](https://tinypng.com/) - Make your website faster and save bandwidth. TinyPNG optimizes your PNG images by 50-80% while preserving full transparency! (Best)
 - [compressor.io](https://compressor.io/compress) - Compress and optimize your images Up to 90% file size reduction.
 - [optimizilla.com](http://optimizilla.com/) - This online image optimizer uses a smart combination of the best optimization and lossy compression algorithms to shrink JPEG and PNG images to the minimum possible size while keeping the required level of quality.
