@@ -53,6 +53,7 @@
 - [regexr.com](https://regexr.com/) - Regular expression tester with syntax highlighting, PHP / PCRE & JS Support, contextual help, cheat sheet, reference, and searchable community patterns.. (Best)
 - [regex101.com](https://regex101.com/) - Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript.
 - [regexpal.com](https://www.regexpal.com/) - Test your Javascript and PCRE regular expressions online.
+- [fluranto.com](https://www.fluranto.com/en/developer/regex-tester) - Browser-based regex tester with live matching. No signup required.
 
 ### Online IDE - Online Compiler
 - [theonlinecompiler.com](https://theonlinecompiler.com/ide) - Program online in Online Compiler and IDE with C, C++, Java, Python, and more languages. Our cloud based application and beautiful UI gives seamless Experience.
