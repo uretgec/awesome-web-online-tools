@@ -11,6 +11,7 @@
 		- [Regexp](#regexp)
 		- [Online IDE - Online Compiler](#online-ide---online-compiler)
 		- [Git Download](#git-download)
+		- [Accessibility Testing](#accessibility-testing)
 	- [WEBONLINESERVICES](#webonlineservices)
 		- [Cron Jobs](#cron-jobs)
 		- [Fake Data Generators](#fake-data-generators)
@@ -61,6 +62,9 @@
 - [DownGit](https://minhaskamal.github.io/DownGit/#/home) - With this tool you can directly download or create download link to any GitHub public directory or file.
 - [gitzip.org](https://kinolien.github.io/gitzip/) - It can make sub-folder/sub-directory of github repository as zip and download it.
 - [gitdownloadmanager.com](https://gitdownloadmanager.com) - Github.com, Bitbucket.org, Gitlab.com provides all of the public repos in git services to download selected files and folders as a zip files with a single click, without the need for any API key or token.
+
+### Accessibility Testing
+- [Accessalyze](https://accessalyze.com) - Free WCAG 2.1 AA accessibility scanner with AI-powered fix code suggestions. Scan any website for accessibility issues instantly.
 
 ## WEBONLINESERVICES
 
