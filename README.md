@@ -41,6 +41,7 @@
 - [json-to-table.com](http://json-to-table.com/) - convert JSON data to a table representation.
 - [json-JMESPath](https://www.rdtoc.com/tools/jmespath) - Extract json text by JMESPath syntax
 - [json-JSONPath](https://www.rdtoc.com/tools/jsonpath) - Extract json text by JSONPath syntax
+- - [3stf.com](https://www.3stf.com/json-formatter/) - Free online JSON formatter, validator, and beautifier. No sign-up required, no data sent to servers.
 
 ### Online Editor
 - [jsoneditoronline.org](https://jsfiddle.net/) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor. (Best - Favourite)
@@ -92,6 +93,7 @@
 - [tinypng.com](https://tinypng.com/) - Make your website faster and save bandwidth. TinyPNG optimizes your PNG images by 50-80% while preserving full transparency! (Best)
 - [compressor.io](https://compressor.io/compress) - Compress and optimize your images Up to 90% file size reduction.
 - [optimizilla.com](http://optimizilla.com/) - This online image optimizer uses a smart combination of the best optimization and lossy compression algorithms to shrink JPEG and PNG images to the minimum possible size while keeping the required level of quality.
+- - [3stf.com](https://www.3stf.com/image-compressor/) - Free online image compressor. Compress JPEG, PNG, WebP images without losing quality. All processing done in browser.
 
 ### Avatar Generator
 - [avatars.adorable.io](http://avatars.adorable.io/) - Adorable Avatars is an avatar placeholder service for web developers and designers. (Best)
