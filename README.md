@@ -127,5 +127,9 @@
 - [fakeinbox.com](http://www.fakeinbox.com/) - Disposable Temporary E-Mail Address. 
 - [20minutemail.com](http://www.20minutemail.com) - 20 minute temp mail is a disposable email service to beat spam.  Avoid spam with a free secure temporary email.
 
+### Multi-Purpose Utilities
+- [tinytools-smoky.vercel.app](https://tinytools-smoky.vercel.app/) - Free browser-based utility suite covering design and SEO: OG image generator, favicon generator, AI background remover (runs locally via WebAssembly), color palette generator, SEO meta tag generator, domain name generator, AI cost calculator, EU AI Act compliance generator, AI robots.txt generator. Open source, no signup required.
+
+
 ## License
 No License.
