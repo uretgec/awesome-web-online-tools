@@ -32,6 +32,7 @@
 - [crontab.com](http://corntab.com) - The crontab GUI
 - [crontab-generator.org](https://crontab-generator.org/) - Generate your crontab line easily.
 - [openjs.com](http://www.openjs.com/scripts/jslibrary/demos/crontab.php) - Crontab Generator is a GUI application that can be used to create new crontab entries easily.
+- [WebUtilsLab Cron Expression Generator](https://webutilslab.com/cron-expression-generator/) - Build and decode crontab schedules with a visual editor and human-readable explanations.
 
 ### Json Viewer
 - [jsoneditoronline.org](https://jsoneditoronline.org/) - JSON Editor Online is a web-based tool to view, edit, and format JSON. It shows your data side by side in a clear, editable treeview and in a code editor. (Best)
@@ -41,6 +42,7 @@
 - [json-to-table.com](http://json-to-table.com/) - convert JSON data to a table representation.
 - [json-JMESPath](https://www.rdtoc.com/tools/jmespath) - Extract json text by JMESPath syntax
 - [json-JSONPath](https://www.rdtoc.com/tools/jsonpath) - Extract json text by JSONPath syntax
+- [WebUtilsLab JSON Formatter](https://webutilslab.com/json-formatter/) - Format, validate and minify JSON locally in the browser with no upload.
 
 ### Online Editor
 - [jsoneditoronline.org](https://jsfiddle.net/) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor. (Best - Favourite)
@@ -53,6 +55,7 @@
 - [regexr.com](https://regexr.com/) - Regular expression tester with syntax highlighting, PHP / PCRE & JS Support, contextual help, cheat sheet, reference, and searchable community patterns.. (Best)
 - [regex101.com](https://regex101.com/) - Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript.
 - [regexpal.com](https://www.regexpal.com/) - Test your Javascript and PCRE regular expressions online.
+- [WebUtilsLab Regex Tester](https://webutilslab.com/regex-tester/) - Test JavaScript regular expressions in the browser with live match, capture group, flag and replacement preview. Fully client-side.
 
 ### Online IDE - Online Compiler
 - [theonlinecompiler.com](https://theonlinecompiler.com/ide) - Program online in Online Compiler and IDE with C, C++, Java, Python, and more languages. Our cloud based application and beautiful UI gives seamless Experience.
