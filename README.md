@@ -93,6 +93,7 @@
 - [compressor.io](https://compressor.io/compress) - Compress and optimize your images Up to 90% file size reduction.
 - [optimizilla.com](http://optimizilla.com/) - This online image optimizer uses a smart combination of the best optimization and lossy compression algorithms to shrink JPEG and PNG images to the minimum possible size while keeping the required level of quality.
 
+- [freepngconvert.com](https://freepngconvert.com/) - Free WebP to PNG converter. All processing in browser, no upload to server.
 ### Avatar Generator
 - [avatars.adorable.io](http://avatars.adorable.io/) - Adorable Avatars is an avatar placeholder service for web developers and designers. (Best)
 - [hexatar.com](http://www.hexatar.com/) - Create your own unique scalable vector avatar or cartoon profile picture in easy steps. Save it in vector PDF/SVG or high resolution PNG file for free.
