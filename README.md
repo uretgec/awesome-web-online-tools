@@ -38,6 +38,7 @@
 - [codebeautify.org](https://codebeautify.org/jsonviewer) - Online JSON Viewer, Beautifier, Formatter, Analyser, Minify, Converter.
 - [jsonparseronline.com](http://jsonparseronline.com/) - a tool which lets you parse json string into a preety and colorful json tree view. JSON Parser Online converts JSON Strings to a friendly readable format.
 - [jsonformatter.org](https://jsonformatter.org/json-editor) - Secure JSON Editor is online JSON editor tool to Edit, Validate and Format JSON data. Support JSON File, URL.
+- [Mini Tools JSON Formatter](https://mini-tools.uk/json) - Free online JSON formatter, validator, minifier and tree viewer.
 - [json-to-table.com](http://json-to-table.com/) - convert JSON data to a table representation.
 - [json-JMESPath](https://www.rdtoc.com/tools/jmespath) - Extract json text by JMESPath syntax
 - [json-JSONPath](https://www.rdtoc.com/tools/jsonpath) - Extract json text by JSONPath syntax
@@ -92,6 +93,10 @@
 - [tinypng.com](https://tinypng.com/) - Make your website faster and save bandwidth. TinyPNG optimizes your PNG images by 50-80% while preserving full transparency! (Best)
 - [compressor.io](https://compressor.io/compress) - Compress and optimize your images Up to 90% file size reduction.
 - [optimizilla.com](http://optimizilla.com/) - This online image optimizer uses a smart combination of the best optimization and lossy compression algorithms to shrink JPEG and PNG images to the minimum possible size while keeping the required level of quality.
+- [Mini Tools Image Resizer & Compressor](https://mini-tools.uk/image) - Browser-based image compressor, resizer and WebP converter.
+
+### Image Hosting
+- [Mini Tools Free Image Hosting](https://mini-tools.uk/upload) - Free image hosting for GitHub README, Markdown and HTML with direct URL, Markdown, HTML and BBCode output.
 
 ### Avatar Generator
 - [avatars.adorable.io](http://avatars.adorable.io/) - Adorable Avatars is an avatar placeholder service for web developers and designers. (Best)
