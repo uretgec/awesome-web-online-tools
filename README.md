@@ -11,6 +11,7 @@
 		- [Regexp](#regexp)
 		- [Online IDE - Online Compiler](#online-ide---online-compiler)
 		- [Git Download](#git-download)
+		- [Multi-Purpose Tools](#multi-purpose-tools)
 	- [WEBONLINESERVICES](#webonlineservices)
 		- [Cron Jobs](#cron-jobs)
 		- [Fake Data Generators](#fake-data-generators)
@@ -34,6 +35,7 @@
 - [openjs.com](http://www.openjs.com/scripts/jslibrary/demos/crontab.php) - Crontab Generator is a GUI application that can be used to create new crontab entries easily.
 
 ### Json Viewer
+- [toolsnova.net/json-formatter](https://toolsnova.net/json-formatter) - Free JSON formatter, validator and beautifier. Works offline.
 - [jsoneditoronline.org](https://jsoneditoronline.org/) - JSON Editor Online is a web-based tool to view, edit, and format JSON. It shows your data side by side in a clear, editable treeview and in a code editor. (Best)
 - [codebeautify.org](https://codebeautify.org/jsonviewer) - Online JSON Viewer, Beautifier, Formatter, Analyser, Minify, Converter.
 - [jsonparseronline.com](http://jsonparseronline.com/) - a tool which lets you parse json string into a preety and colorful json tree view. JSON Parser Online converts JSON Strings to a friendly readable format.
@@ -50,6 +52,7 @@
 - [tableConvert.com](https://tableconvert.com/) - A powerful online table editor that converts between CSV, HTML and Markdown. Easy to convert html tables to SQL, JSON, XML and Text, Makes it easier to work with tables.
 
 ### Regexp
+- [toolsnova.net/regex-tester](https://toolsnova.net/regex-tester) - Online regex tester with syntax highlighting. Works offline.
 - [regexr.com](https://regexr.com/) - Regular expression tester with syntax highlighting, PHP / PCRE & JS Support, contextual help, cheat sheet, reference, and searchable community patterns.. (Best)
 - [regex101.com](https://regex101.com/) - Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript.
 - [regexpal.com](https://www.regexpal.com/) - Test your Javascript and PCRE regular expressions online.
@@ -61,6 +64,9 @@
 - [DownGit](https://minhaskamal.github.io/DownGit/#/home) - With this tool you can directly download or create download link to any GitHub public directory or file.
 - [gitzip.org](https://kinolien.github.io/gitzip/) - It can make sub-folder/sub-directory of github repository as zip and download it.
 - [gitdownloadmanager.com](https://gitdownloadmanager.com) - Github.com, Bitbucket.org, Gitlab.com provides all of the public repos in git services to download selected files and folders as a zip files with a single click, without the need for any API key or token.
+
+### Multi-Purpose Tools
+- [ToolsNova](https://toolsnova.net) - 154 free browser-based tools for developers, students and traders. Includes JSON formatter, regex tester, base64 encoder, calculators, converters and more. Works offline, no signup needed.
 
 ## WEBONLINESERVICES
 
@@ -129,3 +135,4 @@
 
 ## License
 No License.
+
