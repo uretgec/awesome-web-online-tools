@@ -41,6 +41,7 @@
 - [json-to-table.com](http://json-to-table.com/) - convert JSON data to a table representation.
 - [json-JMESPath](https://www.rdtoc.com/tools/jmespath) - Extract json text by JMESPath syntax
 - [json-JSONPath](https://www.rdtoc.com/tools/jsonpath) - Extract json text by JSONPath syntax
+- [ToolPile](https://toolpile.dev) - 128+ free, client-side developer tools: JSON Formatter, JWT Decoder, Base64 Encoder/Decoder, CSV↔JSON converter. No signup, no tracking, works offline after page load.
 
 ### Online Editor
 - [jsoneditoronline.org](https://jsfiddle.net/) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor. (Best - Favourite)
@@ -53,6 +54,7 @@
 - [regexr.com](https://regexr.com/) - Regular expression tester with syntax highlighting, PHP / PCRE & JS Support, contextual help, cheat sheet, reference, and searchable community patterns.. (Best)
 - [regex101.com](https://regex101.com/) - Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript.
 - [regexpal.com](https://www.regexpal.com/) - Test your Javascript and PCRE regular expressions online.
+- [ToolPile Regex Tester](https://toolpile.dev) - Interactive regex tester with real-time matching, syntax highlighting, and cheat sheet. Part of 128+ free developer tools.
 
 ### Online IDE - Online Compiler
 - [theonlinecompiler.com](https://theonlinecompiler.com/ide) - Program online in Online Compiler and IDE with C, C++, Java, Python, and more languages. Our cloud based application and beautiful UI gives seamless Experience.
@@ -75,6 +77,7 @@
 - [httpbin.org](https://httpbin.org/) - HTTP Client Testing Service.
 - [mockaroo.com](https://www.mockaroo.com/) - Random realistic test data in CSV, JSON, SQL, and Excel formats.
 - [extendsclass.com](https://extendsclass.com/csv-generator.html) - Random test data in CSV, JSON and SQL. A REST API is available to generate data. 
+- [ToolPile](https://toolpile.dev) - QR Code Generator, Password Generator, UUID Generator, and more. 100% client-side, zero data collection.
 
 ### Json Generators
 - [next.json-generator.com](https://next.json-generator.com/) - JSON Generator generates data according to the template and saves it. Data can be requested from server using ajax with jsonp. (Best)
