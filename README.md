@@ -75,6 +75,7 @@
 - [httpbin.org](https://httpbin.org/) - HTTP Client Testing Service.
 - [mockaroo.com](https://www.mockaroo.com/) - Random realistic test data in CSV, JSON, SQL, and Excel formats.
 - [extendsclass.com](https://extendsclass.com/csv-generator.html) - Random test data in CSV, JSON and SQL. A REST API is available to generate data. 
+- [TextFaker](https://textfaker.com/) - Create realistic iPhone-style text message screenshots for demos, lessons, stories, and UI mockups.
 
 ### Json Generators
 - [next.json-generator.com](https://next.json-generator.com/) - JSON Generator generates data according to the template and saves it. Data can be requested from server using ajax with jsonp. (Best)
