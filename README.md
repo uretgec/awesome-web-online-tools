@@ -89,6 +89,7 @@
 - [viewdns.info](http://www.viewdns.info/) - Your one source for DNS related tools.
 
 ### Image Optimizer
+- [freeimagemerger.com](https://freeimagemerger.com/) - Merge 2–20 images side by side, in a grid, or freestyle. 100% free, browser-based, no uploads.
 - [tinypng.com](https://tinypng.com/) - Make your website faster and save bandwidth. TinyPNG optimizes your PNG images by 50-80% while preserving full transparency! (Best)
 - [compressor.io](https://compressor.io/compress) - Compress and optimize your images Up to 90% file size reduction.
 - [optimizilla.com](http://optimizilla.com/) - This online image optimizer uses a smart combination of the best optimization and lossy compression algorithms to shrink JPEG and PNG images to the minimum possible size while keeping the required level of quality.
