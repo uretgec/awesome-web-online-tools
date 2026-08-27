@@ -62,6 +62,9 @@
 - [gitzip.org](https://kinolien.github.io/gitzip/) - It can make sub-folder/sub-directory of github repository as zip and download it.
 - [gitdownloadmanager.com](https://gitdownloadmanager.com) - Github.com, Bitbucket.org, Gitlab.com provides all of the public repos in git services to download selected files and folders as a zip files with a single click, without the need for any API key or token.
 
+### Calculators & Utilities
+- [Shift Roster & Net Pay Calculator](https://shiftrosterpay.com/) - Privacy-first work roster planner to calculate complex shifts, night surcharges and total monthly earnings entirely client-side.
+
 ## WEBONLINESERVICES
 
 ### Cron Jobs
