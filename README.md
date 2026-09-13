@@ -39,6 +39,7 @@
 - [jsonparseronline.com](http://jsonparseronline.com/) - a tool which lets you parse json string into a preety and colorful json tree view. JSON Parser Online converts JSON Strings to a friendly readable format.
 - [jsonformatter.org](https://jsonformatter.org/json-editor) - Secure JSON Editor is online JSON editor tool to Edit, Validate and Format JSON data. Support JSON File, URL.
 - [json-to-table.com](http://json-to-table.com/) - convert JSON data to a table representation.
+- [quicktinyv2.vercel.app](https://quicktinyv2.vercel.app/json-formatter) - Free JSON formatter and validator with automatic repair for invalid JSON, runs entirely in the browser, no signup.
 - [json-JMESPath](https://www.rdtoc.com/tools/jmespath) - Extract json text by JMESPath syntax
 - [json-JSONPath](https://www.rdtoc.com/tools/jsonpath) - Extract json text by JSONPath syntax
 
