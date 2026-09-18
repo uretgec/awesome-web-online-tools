@@ -80,6 +80,8 @@
 - [next.json-generator.com](https://next.json-generator.com/) - JSON Generator generates data according to the template and saves it. Data can be requested from server using ajax with jsonp. (Best)
 - [next.json-generator.com](http://jsongen.pykaso.net/) - Nice sample data generator.
 
+### Network Tools
+- [DevSubnet](https://devsubnet.com/) - Free, 100% client-side IP subnet and CIDR calculator with cloud VPC offsets and IaC export.
 ### Dns Check
 - [whatsmydns.net](https://www.whatsmydns.net/) - Instantly check your domain names current IP address and DNS record information against multiple name servers located in different parts of the world. (Best)
 - [dnsmap.io](https://dnsmap.io/) - Check the current IP of your domain name or hostname from multiple DNS nameservers and resolvers from all around the world. Instant propagation check.
