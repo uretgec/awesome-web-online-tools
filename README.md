@@ -23,6 +23,7 @@
 		- [Localhost Tunneling](#localhost-tunneling)
 		- [Virus Check](#virus-check)
 		- [Fake Email Service](#fake-email-service)
+		- [Invoice & Freelance Generators](#invoice--freelance-generators)
 	- [License](#license)
 
 ## WEBONLINETOOLS
@@ -126,6 +127,10 @@
 - [fakemailgenerator.com](http://www.fakemailgenerator.com) - The Fake Mail Generator is an absolutely free disposable email system. By simply visiting this site the above address has already been activated. Use it instead of your regular email address to avoid spam. When an email is received it will pop up instantly on this page. 
 - [fakeinbox.com](http://www.fakeinbox.com/) - Disposable Temporary E-Mail Address. 
 - [20minutemail.com](http://www.20minutemail.com) - 20 minute temp mail is a disposable email service to beat spam.  Avoid spam with a free secure temporary email.
+
+
+### Invoice & Freelance Generators
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser-only freelance invoice, quote, receipt, and client paperwork generators. No signup; print or save as PDF.
 
 ## License
 No License.
