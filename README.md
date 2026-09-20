@@ -127,5 +127,8 @@
 - [fakeinbox.com](http://www.fakeinbox.com/) - Disposable Temporary E-Mail Address. 
 - [20minutemail.com](http://www.20minutemail.com) - 20 minute temp mail is a disposable email service to beat spam.  Avoid spam with a free secure temporary email.
 
+- [NextReset](https://nextreset.ai/) - Free, independent Codex reset history and AI incident resource with a local personal timer.
+
+
 ## License
 No License.
