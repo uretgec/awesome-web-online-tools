@@ -112,6 +112,7 @@
 - [pixlr.com](https://pixlr.com/x/) - Looking for advanced photo editing capabilities right in your browser, Pixlr X is the next generation photo editor! No installation and registration required. Use for free on desktop, tablets&phones.
 - [fotor.com](https://www.fotor.com/photo-editor-app/) - Fotor is a free online photo editor and graphic designer, allowing you to use online photo editing tools, such as add filters, frames, text, stickers and effects…and apply design tools to make creative photo designs and graphics. Online photoshop and graphic design software has never been so easy!
 - [befunky.com](https://www.befunky.com/create/photo-editor/) - BeFunky's Online Photo Editor lets you edit photos, apply photo effects, and add frames, graphics, and text. Online Photo Editing has never been easier.
+- [aigeneratornsfw.com](https://aigeneratornsfw.com/nsfw-ai-image-generator) - An 18+ browser AI image creator and reference editor for non-explicit creative imagery; registered accounts receive 10 daily image credits, with model-specific content restrictions.
 
 ### Localhost Tunneling
 - [xip.io](http://xip.io/) - is a magic domain name that provides wildcard DNS for any IP address. (Best) 
