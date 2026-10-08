@@ -92,6 +92,7 @@
 - [tinypng.com](https://tinypng.com/) - Make your website faster and save bandwidth. TinyPNG optimizes your PNG images by 50-80% while preserving full transparency! (Best)
 - [compressor.io](https://compressor.io/compress) - Compress and optimize your images Up to 90% file size reduction.
 - [optimizilla.com](http://optimizilla.com/) - This online image optimizer uses a smart combination of the best optimization and lossy compression algorithms to shrink JPEG and PNG images to the minimum possible size while keeping the required level of quality.
+- [PicCollages](https://piccollages.com/compress-image) - Free browser-based batch image compression for JPG, PNG and WebP, with quality controls and individual or ZIP downloads.
 
 ### Avatar Generator
 - [avatars.adorable.io](http://avatars.adorable.io/) - Adorable Avatars is an avatar placeholder service for web developers and designers. (Best)
