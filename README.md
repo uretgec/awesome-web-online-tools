@@ -49,6 +49,7 @@
 - [sqlfiddle.com](http://sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solutions.
 - [tableConvert.com](https://tableconvert.com/) - A powerful online table editor that converts between CSV, HTML and Markdown. Easy to convert html tables to SQL, JSON, XML and Text, Makes it easier to work with tables.
 
+- [17nas.com/html-runner](https://17nas.com/tools/html-runner/) - Free online HTML runner; write and preview HTML/CSS/JS instantly in your browser, no signup.
 ### Regexp
 - [regexr.com](https://regexr.com/) - Regular expression tester with syntax highlighting, PHP / PCRE & JS Support, contextual help, cheat sheet, reference, and searchable community patterns.. (Best)
 - [regex101.com](https://regex101.com/) - Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript.
@@ -88,6 +89,7 @@
 - [dns.google.com](https://dns.google.com) - Google Public Dns (Simple)
 - [viewdns.info](http://www.viewdns.info/) - Your one source for DNS related tools.
 
+- [17nas.com/ipv6-test](https://17nas.com/ipv6-test.php) - Free IPv6 connection test; check IPv4/IPv6 addresses, latency, ISP info and dual-stack status in real time.
 ### Image Optimizer
 - [tinypng.com](https://tinypng.com/) - Make your website faster and save bandwidth. TinyPNG optimizes your PNG images by 50-80% while preserving full transparency! (Best)
 - [compressor.io](https://compressor.io/compress) - Compress and optimize your images Up to 90% file size reduction.
