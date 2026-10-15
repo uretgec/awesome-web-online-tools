@@ -101,6 +101,7 @@
 
 ### Font Generator
 - [fontello.com](http://fontello.com/) - Fontello is a tool to quickly pack vector images into webfonts.
+- [CuteFontGen](https://cutefontgen.com/bubble-text-generator/) - Free Unicode bubble, cute, and fancy text generator (copy & paste for bios and nicknames).
 
 ### Online Sketch&Photoshop Alternatives
 - [sketch.io](https://sketch.io/sketchpad/) - Free online drawing application for all ages. Create digital artwork to share online and export to popular image formats JPEG, PNG, SVG, and PDF. (Best)
