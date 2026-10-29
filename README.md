@@ -48,6 +48,7 @@
 - [jsbin.com](http://jsbin.com) - A live pastebin for HTML, CSS & JavaScript and a range of processors, including SCSS, CoffeeScript, Jade and more...
 - [sqlfiddle.com](http://sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solutions.
 - [tableConvert.com](https://tableconvert.com/) - A powerful online table editor that converts between CSV, HTML and Markdown. Easy to convert html tables to SQL, JSON, XML and Text, Makes it easier to work with tables.
+- [handlemyfile.com](https://handlemyfile.com/) - Free and 100% private in-browser document processing and converter tool (PDF to Word DOCX, OCR, merge) powered by client-side WebAssembly with zero server uploads.
 
 ### Regexp
 - [regexr.com](https://regexr.com/) - Regular expression tester with syntax highlighting, PHP / PCRE & JS Support, contextual help, cheat sheet, reference, and searchable community patterns.. (Best)
