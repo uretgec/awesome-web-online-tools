@@ -41,6 +41,7 @@
 - [json-to-table.com](http://json-to-table.com/) - convert JSON data to a table representation.
 - [json-JMESPath](https://www.rdtoc.com/tools/jmespath) - Extract json text by JMESPath syntax
 - [json-JSONPath](https://www.rdtoc.com/tools/jsonpath) - Extract json text by JSONPath syntax
+- [BestJSON](https://bestjson.com/json-viewer) - View JSON as a collapsible tree, inspect nested values, and format data locally in the browser without signing up.
 
 ### Online Editor
 - [jsoneditoronline.org](https://jsfiddle.net/) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor. (Best - Favourite)
