@@ -48,6 +48,7 @@
 - [jsbin.com](http://jsbin.com) - A live pastebin for HTML, CSS & JavaScript and a range of processors, including SCSS, CoffeeScript, Jade and more...
 - [sqlfiddle.com](http://sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solutions.
 - [tableConvert.com](https://tableconvert.com/) - A powerful online table editor that converts between CSV, HTML and Markdown. Easy to convert html tables to SQL, JSON, XML and Text, Makes it easier to work with tables.
+- [Xiaoxue CSV Cleaner](https://tools.gougousongsong.dpdns.org/csv-cleaner/) - Free browser-only CSV cleaner: flags drifted column counts, non-numeric amounts, mixed date formats, invisible whitespace and duplicate rows without uploading the file.
 
 ### Regexp
 - [regexr.com](https://regexr.com/) - Regular expression tester with syntax highlighting, PHP / PCRE & JS Support, contextual help, cheat sheet, reference, and searchable community patterns.. (Best)
@@ -62,8 +63,6 @@
 - [gitzip.org](https://kinolien.github.io/gitzip/) - It can make sub-folder/sub-directory of github repository as zip and download it.
 - [gitdownloadmanager.com](https://gitdownloadmanager.com) - Github.com, Bitbucket.org, Gitlab.com provides all of the public repos in git services to download selected files and folders as a zip files with a single click, without the need for any API key or token.
 
-
-- [Xiaoxue CSV Cleaner](https://tools.gougousongsong.dpdns.org/csv-cleaner/) - Free browser-only CSV cleaner: flags drifted column counts, non-numeric amounts, mixed date formats, invisible whitespace and duplicate rows without uploading the file.
 
 ## WEBONLINESERVICES
 
